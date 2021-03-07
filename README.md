@@ -1,7 +1,7 @@
 # The Huffman Coding Algorithm
 
 In this project, we implement the Huffman Coding algorithm. For
-further details, please view the NOWEB generated documentation `huffman.pdf`.
+further details, please view the NOWEB generated documentation `huffman.pdf` and the LaTex generated version `huffman(rus).pdf`
 
 ##Source code
 
@@ -10,6 +10,7 @@ This repository contains the following source code and data files:
 * `huffman.c` - A C programming language implementation.
 * `message.txt`- A small text message file for testing.
 * `huffman.pdf`- Documentation of the implementation.
+* `huffman.pdf(rus)`- Documentation of the implementation translated into russian.
 * `Makefile` - For compiling the source.
 
 ##Usage

@@ -1,7 +1,7 @@
 # The Huffman Coding Algorithm
 
 In this project, we implement the Huffman Coding algorithm. For
-further details, please view the NOWEB generated documentation `huffman.pdf` and the LaTex generated version `huffman(rus).pdf`
+further details, please view the NOWEB generated documentation `huffman.pdf` and the LaTeX generated version `huffman(rus).pdf`
 
 ##Source code
 

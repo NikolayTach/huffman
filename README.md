@@ -10,7 +10,7 @@ This repository contains the following source code and data files:
 * `huffman.c` - A C programming language implementation.
 * `message.txt`- A small text message file for testing.
 * `huffman.pdf`- Documentation of the implementation.
-* `huffman.pdf(rus)`- Documentation of the implementation in russian cyrillic.
+* `huffman(rus).pdf`- Documentation of the implementation in russian cyrillic.
 * `Makefile` - For compiling the source.
 
 ##Usage
